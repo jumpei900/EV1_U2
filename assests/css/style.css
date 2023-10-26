@@ -1,0 +1,46 @@
+body{
+    font-family: Comic Sans SM;
+    margin:0%;
+    text-align: center;
+}
+.div_img{
+    height: 100px;
+    width: 140px;
+    margin: 0px,0px,0px,0px;
+
+}
+.logo{
+    height: 100%;
+    width: 100%;
+}
+.formu{
+    height: 100px;
+    width: 500px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.toggler_nvb{
+    margin-right:0% ;
+}
+.dv_txt_area{
+    height: 150px;
+    width: 100%;
+}
+
+.text_area{
+    height: 100%;
+    width: 100%;
+}
+
+.dv_portada{
+    display: grid;
+    margin: 0%;
+    width: 100%;
+}
+.img_portada{
+    height: 300px;
+    width: 100%;
+}
+.parr{
+    font-size: 15px;
+}
